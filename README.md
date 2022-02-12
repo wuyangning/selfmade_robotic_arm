@@ -1,4 +1,4 @@
-几个自制机械臂库存
+几个自制机械臂
 
 ##  SCARA1
 ![](https://s3.bmp.ovh/imgs/2021/10/d2c47fc9cbd2178c.jpg)
